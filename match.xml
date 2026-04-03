@@ -1,0 +1,26 @@
+<matchs>
+    <match>
+        <MatchID>1</MatchID>
+        <Adversaire>Golden State Warriors</Adversaire>
+        <Date>2025-11-12</Date>
+        <Lieu>Domicile</Lieu>
+        <Resultat>Defaite</Resultat>
+        <DiffScore>-5</DiffScore>
+    </match>
+    <match>
+        <MatchID>2</MatchID>
+        <Adversaire>Chicago Bulls</Adversaire>
+        <Date>2025-11-10</Date>
+        <Lieu>Exterieur</Lieu>
+        <Resultat>Victoire</Resultat>
+        <DiffScore>+4</DiffScore>
+    </match>
+    <match>
+        <MatchID>3</MatchID>
+        <Adversaire>New Orleans Pelicans</Adversaire>
+        <Date>2025-11-08</Date>
+        <Lieu>Domicile</Lieu>
+        <Resultat>Victoire</Resultat>
+        <DiffScore>+7</DiffScore>
+    </match>
+</matchs>
